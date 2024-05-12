@@ -2,10 +2,10 @@
 # How to Create and Manage Cron Jobs on Linux #
 ###############################################
 ______________________________________________________
-Sumon Paul					       
-Cloud Engineer					       
-Aamra Networks Ltd.				       
-linkedin: https://www.linkedin.com/in/sumonpaul/ 
+Ikbal Hossain
+System Administrator 
+Hamko Group.					       				       
+linkedin: https://www.linkedin.com/in/ikbal-hossain-b8aaa62bb/ 
 -------------------------------------------------------
 ++++++++++++++++++++++++++++++++++++
 + Install Crontab Package Install: +
